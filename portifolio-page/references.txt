@@ -1,0 +1,7 @@
+Background Colors: 
+--header-red-bg: #be3144
+--main-grey-bg: #303841
+--main-blue-bg: #45567d
+
+Text Colors:
+--txt-color: #fff
